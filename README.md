@@ -143,9 +143,9 @@ Lahore, Pakistan
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: [linkedin.com/in/muhammad-imran](https://linkedin.com/in/muhammad-imran)  
+- **LinkedIn**: [linkedin.com/in/muhammad-imran](https://www.linkedin.com/in/muhammad-imran-tech/)  
 - **Twitter**: [twitter.com/lmranDogar.psf](https://twitter.com/lmranDogar.psf)  
-- **Email**: [imrandogarpsf86@gmail.com](mailto:imrandogarpsf86@gmail.com)  
+- **Email**: [Musa Technology](mailto:info@musatechnology.org)  
 - **WhatsApp**: [+92 321 8866546](https://wa.me/+923218866546)  
 - **Resume**: [Download PDF](./Resume.pdf)  
 
